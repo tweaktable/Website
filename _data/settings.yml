@@ -63,10 +63,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'twitter', link: 'https://twitter.com/tweaktable'}
+- {icon: 'github', link: 'https://github.com/tweaktable'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/tweak-table-0aa331175/'}
+- {icon: 'envelope', link: 'mailto:tweaktable@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
