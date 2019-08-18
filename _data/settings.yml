@@ -33,8 +33,8 @@ google-analytics-ua: 'UA-112060364-3'
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'thathungrymind'
+  comments: true
+  disqus_shortname: 'https-tweaktable-github-io'
 
 #-------------------------------
 # About Section
@@ -53,7 +53,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Project: Tweak Table', folder: 'proj-tweak-table', file: 'projects/proj-tweak-table.html'}
 - {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
